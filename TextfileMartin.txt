@@ -1,3 +1,7 @@
 Hallo Text file!!!
 Hallo!
+<<<<<<< HEAD
 Änderung 2 
+=======
+Gemeine hinterhaeltige Aenderung von Jonas!
+>>>>>>> 7dac303defcf892bcb19bbe346a287d032e68154
